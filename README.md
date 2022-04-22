@@ -1,6 +1,6 @@
 # Projeto HZC | Cursos da Alura
 
-Projeto realizado durante o curso "CSS: dispondo elementos com Flexbox e Grid" onde apredi:
+Projeto realizado durante o curso "CSS: dispondo elementos com Flexbox e Grid" onde apreNdi:
 
 * Relacione o flexbox com maneiras já conhecidas de posicionamento de elementos
 * Veja o flexbox e suas propriedades para o posicionamento de elementos
